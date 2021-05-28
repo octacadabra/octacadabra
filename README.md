@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and entrepreneurship
 - 🌱 I’m currently learning R, Python, SQL, Excel, Tableau, Power BI 
 - 💞️ I’m looking to collaborate on (-) 
-- 📫 How to reach me @octaviasteevani on Linkedin
+- 📫 Reach me @octaviasteevani on Linkedin
 
 <!---
 octacadabra/octacadabra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
